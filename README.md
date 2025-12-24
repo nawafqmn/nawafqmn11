@@ -1,43 +1,41 @@
-# 👨‍💻 مرحباً بك في عالمي الب# 👨‍💻 Software Engineer in the Making
+# 👨‍💻 مرحباً بك في عالمي الب# 👨‍💻 Software# 👨‍💻 Engineering Excellence | nawafqmn
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Coding-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-blue" alt="Focus">
-</p>
+### "Building scalable solutions & architecting the future, one commit at a time."
 
 ---
 
-### ⚡ About Me
-A dedicated **Programming Enthusiast** with a focus on writing clean, efficient, and scalable code. I believe that programming is more than just a job; it's a tool to change the world.
-
-- 🔭 **Working on:** Building innovative open-source projects.
-- 🚀 **Skills:** Transforming complex logic into functional applications.
-- 💬 **Ask me about:** Data structures, algorithms, or anything code-related.
+## 🚀 Technical Profile
+- **Domain Focus:** Software Architecture & Systems Design.
+- **Philosophy:** Writing readable, maintainable, and high-performance code.
+- **Status:** Constantly refactoring my skills and exploring low-level optimizations.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-| Area | Technologies |
+## 🛠️ Core Tech Stack
+| Tier | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `JavaScript` `C++` `Java` |
-| **Tools** | `Git` `VS Code` `Docker` `Linux` |
-| **Interested In** | `Web Development` `AI` `Automation` |
+| **Backend / Logic** | `Python` `C++` `Node.js` |
+| **Data Systems** | `PostgreSQL` `Redis` |
+| **Infrastructure** | `Git` `Docker` `Kubernetes` `Linux` |
 
 ---
 
-### 📊 Performance & Contributions
+## 📈 GitHub Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nawafqmn&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafqmn&layout=compact&theme=tokyonight" width="48%" />
+</div>
+
+---
+
+## ⚡ Engineering Philosophy
+- **KISS:** Keep It Simple, Stupid.
+- **DRY:** Don't Repeat Yourself.
+- **SOLID:** Mastering object-oriented design principles.
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawafqmn&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafqmn&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen" />
+  <img src="https://img.shields.io/badge/Open--Source-Passionate-blue" />
 </p>
-
----
-
-### 🤝 Let's Connect
-<p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-
----
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
