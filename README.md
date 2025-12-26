@@ -1,30 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=NAWAF&fontSize=90&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=NAWAF&fontSize=90&animation=fadeIn&fontColor=ffffff&desc=Python%20%7C%20Flutter%20Developer&descSize=25&descAlignY=75" width="100%" />
 
 <br>
 
-<h1 align="center"><b>Innovative Solutions Through Automation</b></h1>
-
+<h2 align="center">✨ Transforming Ideas into Digital Reality</h2>
 <p align="center">
-  <b>متخصص في هندسة البرمجيات وأتمتة النظم | تطوير حلول ذكية وعالية الكفاءة</b>
+  <b>مطور برمجيات متخصص في بناء تطبيقات الأندرويد باستخدام Flutter وأتمتة النظم المعقدة بلغة Python</b>
 </p>
 
 ---
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Strategy-Planning-blue?style=for-the-badge&logo=target" /><br>
-      تخطيط استراتيجي
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/Flutter_Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <br><i>بناء واجهات عصرية ومتكاملة</i>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Automation-Expert-success?style=for-the-badge&logo=robot" /><br>
-      خبير أتمتة
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Analysis-Data-orange?style=for-the-badge&logo=google-analytics" /><br>
-      تحليل بيانات
+    <td align="center" width="300">
+      <img src="https://img.shields.io/badge/Python_Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br><i>أتمتة ذكية وحلول برمجية قوية</i>
     </td>
   </tr>
 </table>
@@ -35,38 +30,48 @@
 
 ---
 
-<h2 align="center">✨ السيرة المهنية والتقنية</h2>
+<h2 align="center">🚀 الرؤية البرمجية</h2>
 
 <p align="right" dir="rtl">
-خبير في تطوير الأدوات البرمجية المخصصة، أركز على تقديم حلول تقنية متكاملة تهدف إلى رفع الإنتاجية وتقليل الجهد البشري عبر الأتمتة المتقدمة. أمتلك رؤية برمجية تهدف إلى دمج التكنولوجيا في صميم الأعمال اليومية لتحقيق أقصى استفادة من الموارد المتاحة.
+بصفتي مطوراً يجمع بين قوة <b>Python</b> في المعالجة والأتمتة، وجمالية <b>Flutter</b> في بناء واجهات المستخدم، أسعى لتقديم تجربة رقمية فريدة. أركز على كتابة كود نظيف، قابل للتوسع، ويهدف دائماً إلى تبسيط حياة المستخدمين عبر حلول تقنية مبتكرة تنبض بالكفاءة والإبداع.
 </p>
 
 ---
 
-<h2 align="center">📊 مؤشرات النشاط البرمجي</h2>
+<h2 align="center">⚡ التقنيات التي أتقنها</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="55" height="55"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="55" height="55"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="55" height="55"/>
+</p>
+
+---
+
+<h2 align="center">📊 إحصائيات الأداء (System Pulse)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawafqmn&show_icons=true&theme=vue-dark&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nawafqmn&show_icons=true&theme=radical&border_radius=20&animation=true" alt="Nawaf's Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafqmn&layout=compact&theme=vue-dark&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafqmn&layout=compact&theme=radical&border_radius=20" alt="Top Languages" />
 </div>
 
 ---
 
-<h2 align="center">📱 قنوات التواصل الرسمية</h2>
+<h2 align="center">📬 بروتوكول التواصل</h2>
 
 <div align="center">
   <a href="https://t.me/a_l1_j">
-    <img src="https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Encrypted_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=30&section=footer" width="100%" />
 
 </div>
