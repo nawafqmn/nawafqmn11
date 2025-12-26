@@ -1,64 +1,33 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=NAWAF%20QMN&fontSize=80&animation=fadeIn" width="100%" />
+# 🚀 Dedicated to automating the repetitive and building the future, one script at a time.
 
-  <br>
-
-  <table>
-    <tr>
-      <td align="center">
-        <kbd><b>while(alive) { code(); learn(); repeat(); }</b></kbd>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <h3> 🚀 Incoming Software Engineer </h3>
-  <p>
-    <i>"Passionate about building robust systems and solving complex architectural puzzles."</i>
-  </p>
-</div>
-
-<hr>
-
-<h3 align="left">🛠 Tech Stack & Ecosystem</h3>
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>核心 | Languages</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>البنية التحتية | DevOps</h4>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="left">📊 Analytical Performance</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawafqmn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawafqmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=[ضع_اسمك_هنا]&fontSize=80&animation=fadeIn" />
 </p>
 
-<br>
+## 👨‍💻 About Me
+- ⚡ **Passion:** Python & Task Automation
+- 🛠️ **Current Focus:** Developing Android-based scripts using Pydroid 3
+- 🎯 **Goal:** Building tools that make life easier
+- 💬 **Ask me about:** Python, Selenium, and why manual work is boring!
 
-<div align="center">
-  <h3>🤝 Let's Establish a Connection</h3>
-  <a href="mailto:contact@nawafqmn.com">
-    <img src="https://img.shields.io/badge/Direct_Message-00b4d8?style=for-the-badge&logo=minutemailer&logoColor=white" />
-  </a>
-  <a href="https://github.com/nawafqmn">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/>
+</p>
 
-<br>
-<hr>
-<p align="center">Last Update: Dec 2025 | Built with ❤️ and HTML</p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[ضع_اسم_المستخدم_هنا]&show_icons=true&theme=radical&count_private=true" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ضع_اسم_المستخدم_هنا]&layout=compact&theme=radical" alt="languages" />
+</p>
+
+---
+<p align="center">
+  "The best way to predict the future is to create it." - Pythonist 🐍
+</p>
